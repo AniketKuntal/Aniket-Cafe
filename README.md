@@ -13,10 +13,5 @@ AND MY PROJECT URL( MY CAFE WEBPAGE) :- https://aniketkuntal.github.io/Aniket-Ca
 some image of the steps followed:-
 
 
-![Screenshot (105)](https://user-images.githubusercontent.com/57865239/163986431-53b7167d-8aef-4127-abb6-150067c37780.png)
-
-![Screenshot (106)](https://user-images.githubusercontent.com/57865239/163986455-771ac19d-a9fc-4859-9a0a-396bf54d52c5.png)
-
-![Screenshot (107)](https://user-images.githubusercontent.com/57865239/163986563-72958e20-ee8e-4285-9856-bc6969344148.png)
-
-![Screenshot (108)](https://user-images.githubusercontent.com/57865239/163986580-a7c77359-dc94-4941-93f3-d625899607e9.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/57865239/163987162-09edae38-ff0a-4c72-9ce4-55e7fe843e1b.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/57865239/163987240-01ac927b-dc8a-4aea-8a62-c612149c0305.png)
